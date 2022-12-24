@@ -1,0 +1,16 @@
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\BetweenTwoSets\bin\Debug\net5.0\BetweenTwoSets.exe
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\BetweenTwoSets\bin\Debug\net5.0\BetweenTwoSets.deps.json
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\BetweenTwoSets\bin\Debug\net5.0\BetweenTwoSets.runtimeconfig.json
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\BetweenTwoSets\bin\Debug\net5.0\BetweenTwoSets.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\BetweenTwoSets\bin\Debug\net5.0\BetweenTwoSets.dll
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\BetweenTwoSets\bin\Debug\net5.0\BetweenTwoSets.pdb
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\BetweenTwoSets\obj\Debug\net5.0\BetweenTwoSets.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\BetweenTwoSets\obj\Debug\net5.0\BetweenTwoSets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\BetweenTwoSets\obj\Debug\net5.0\BetweenTwoSets.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\BetweenTwoSets\obj\Debug\net5.0\BetweenTwoSets.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\BetweenTwoSets\obj\Debug\net5.0\BetweenTwoSets.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\BetweenTwoSets\obj\Debug\net5.0\BetweenTwoSets.dll
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\BetweenTwoSets\obj\Debug\net5.0\refint\BetweenTwoSets.dll
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\BetweenTwoSets\obj\Debug\net5.0\BetweenTwoSets.pdb
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\BetweenTwoSets\obj\Debug\net5.0\BetweenTwoSets.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\BetweenTwoSets\obj\Debug\net5.0\ref\BetweenTwoSets.dll
