@@ -91,12 +91,55 @@ namespace BetweenTwoSets
         }
 
 
+        // Solution 2
+        public static int getTotalX2(List<int> a, List<int> b)
+        {
+            int numbersBetweenTheArrays = 0;
+
+            int i = 1;
+
+            while (a[^1] * i <= b[0])
+            {
+                bool valueStatus = true;
+                int value = a[^1] * i;
+
+                foreach (int j in a)
+                {
+                    if (valueStatus && value % j != 0)
+                    {
+                        valueStatus = false;
+                        break;
+                    }
+                }
+
+                foreach (int k in b)
+                {
+                    if (valueStatus && k % value != 0)
+                    {
+                        valueStatus = false;
+                        break;
+                    }
+                }
+
+                if (valueStatus)
+                {
+                    numbersBetweenTheArrays++;
+                }
+
+                i++;
+            }   
+
+            return numbersBetweenTheArrays;
+
+        }
+
+
         static void Main(string[] args)
         {
             List<int> a = new List<int>() { 2, 6};
             List<int> b = new List<int>() { 24, 36};
 
-            Console.WriteLine(getTotalX(a, b));
+            Console.WriteLine(getTotalX2(a, b));
         }
     }
 }
