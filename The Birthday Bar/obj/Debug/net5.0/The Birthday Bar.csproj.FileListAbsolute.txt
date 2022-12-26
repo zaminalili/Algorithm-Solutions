@@ -1,0 +1,16 @@
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\The Birthday Bar\bin\Debug\net5.0\The Birthday Bar.exe
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\The Birthday Bar\bin\Debug\net5.0\The Birthday Bar.deps.json
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\The Birthday Bar\bin\Debug\net5.0\The Birthday Bar.runtimeconfig.json
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\The Birthday Bar\bin\Debug\net5.0\The Birthday Bar.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\The Birthday Bar\bin\Debug\net5.0\The Birthday Bar.dll
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\The Birthday Bar\bin\Debug\net5.0\The Birthday Bar.pdb
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\The Birthday Bar\obj\Debug\net5.0\The Birthday Bar.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\The Birthday Bar\obj\Debug\net5.0\The Birthday Bar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\The Birthday Bar\obj\Debug\net5.0\The Birthday Bar.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\The Birthday Bar\obj\Debug\net5.0\The Birthday Bar.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\The Birthday Bar\obj\Debug\net5.0\The Birthday Bar.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\The Birthday Bar\obj\Debug\net5.0\The Birthday Bar.dll
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\The Birthday Bar\obj\Debug\net5.0\refint\The Birthday Bar.dll
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\The Birthday Bar\obj\Debug\net5.0\The Birthday Bar.pdb
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\The Birthday Bar\obj\Debug\net5.0\The Birthday Bar.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\The Birthday Bar\obj\Debug\net5.0\ref\The Birthday Bar.dll
