@@ -1,0 +1,16 @@
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\DivisibleSumPairs\bin\Debug\net5.0\DivisibleSumPairs.exe
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\DivisibleSumPairs\bin\Debug\net5.0\DivisibleSumPairs.deps.json
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\DivisibleSumPairs\bin\Debug\net5.0\DivisibleSumPairs.runtimeconfig.json
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\DivisibleSumPairs\bin\Debug\net5.0\DivisibleSumPairs.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\DivisibleSumPairs\bin\Debug\net5.0\DivisibleSumPairs.dll
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\DivisibleSumPairs\bin\Debug\net5.0\DivisibleSumPairs.pdb
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\DivisibleSumPairs\obj\Debug\net5.0\DivisibleSumPairs.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\DivisibleSumPairs\obj\Debug\net5.0\DivisibleSumPairs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\DivisibleSumPairs\obj\Debug\net5.0\DivisibleSumPairs.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\DivisibleSumPairs\obj\Debug\net5.0\DivisibleSumPairs.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\DivisibleSumPairs\obj\Debug\net5.0\DivisibleSumPairs.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\DivisibleSumPairs\obj\Debug\net5.0\DivisibleSumPairs.dll
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\DivisibleSumPairs\obj\Debug\net5.0\refint\DivisibleSumPairs.dll
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\DivisibleSumPairs\obj\Debug\net5.0\DivisibleSumPairs.pdb
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\DivisibleSumPairs\obj\Debug\net5.0\DivisibleSumPairs.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\DivisibleSumPairs\obj\Debug\net5.0\ref\DivisibleSumPairs.dll
