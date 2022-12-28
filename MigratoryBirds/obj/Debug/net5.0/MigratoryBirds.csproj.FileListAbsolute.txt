@@ -1,0 +1,16 @@
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\MigratoryBirds\bin\Debug\net5.0\MigratoryBirds.exe
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\MigratoryBirds\bin\Debug\net5.0\MigratoryBirds.deps.json
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\MigratoryBirds\bin\Debug\net5.0\MigratoryBirds.runtimeconfig.json
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\MigratoryBirds\bin\Debug\net5.0\MigratoryBirds.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\MigratoryBirds\bin\Debug\net5.0\MigratoryBirds.dll
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\MigratoryBirds\bin\Debug\net5.0\MigratoryBirds.pdb
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\MigratoryBirds\obj\Debug\net5.0\MigratoryBirds.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\MigratoryBirds\obj\Debug\net5.0\MigratoryBirds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\MigratoryBirds\obj\Debug\net5.0\MigratoryBirds.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\MigratoryBirds\obj\Debug\net5.0\MigratoryBirds.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\MigratoryBirds\obj\Debug\net5.0\MigratoryBirds.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\MigratoryBirds\obj\Debug\net5.0\MigratoryBirds.dll
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\MigratoryBirds\obj\Debug\net5.0\refint\MigratoryBirds.dll
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\MigratoryBirds\obj\Debug\net5.0\MigratoryBirds.pdb
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\MigratoryBirds\obj\Debug\net5.0\MigratoryBirds.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\MigratoryBirds\obj\Debug\net5.0\ref\MigratoryBirds.dll
