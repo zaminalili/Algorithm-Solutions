@@ -1,0 +1,16 @@
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\SalesByMatch\SalesByMatch\bin\Debug\net5.0\SalesByMatch.exe
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\SalesByMatch\SalesByMatch\bin\Debug\net5.0\SalesByMatch.deps.json
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\SalesByMatch\SalesByMatch\bin\Debug\net5.0\SalesByMatch.runtimeconfig.json
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\SalesByMatch\SalesByMatch\bin\Debug\net5.0\SalesByMatch.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\SalesByMatch\SalesByMatch\bin\Debug\net5.0\SalesByMatch.dll
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\SalesByMatch\SalesByMatch\bin\Debug\net5.0\SalesByMatch.pdb
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\SalesByMatch\SalesByMatch\obj\Debug\net5.0\SalesByMatch.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\SalesByMatch\SalesByMatch\obj\Debug\net5.0\SalesByMatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\SalesByMatch\SalesByMatch\obj\Debug\net5.0\SalesByMatch.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\SalesByMatch\SalesByMatch\obj\Debug\net5.0\SalesByMatch.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\SalesByMatch\SalesByMatch\obj\Debug\net5.0\SalesByMatch.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\SalesByMatch\SalesByMatch\obj\Debug\net5.0\SalesByMatch.dll
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\SalesByMatch\SalesByMatch\obj\Debug\net5.0\refint\SalesByMatch.dll
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\SalesByMatch\SalesByMatch\obj\Debug\net5.0\SalesByMatch.pdb
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\SalesByMatch\SalesByMatch\obj\Debug\net5.0\SalesByMatch.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\SalesByMatch\SalesByMatch\obj\Debug\net5.0\ref\SalesByMatch.dll
