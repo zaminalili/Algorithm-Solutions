@@ -1,0 +1,16 @@
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\DrawingBook\DrawingBook\bin\Debug\net5.0\DrawingBook.exe
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\DrawingBook\DrawingBook\bin\Debug\net5.0\DrawingBook.deps.json
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\DrawingBook\DrawingBook\bin\Debug\net5.0\DrawingBook.runtimeconfig.json
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\DrawingBook\DrawingBook\bin\Debug\net5.0\DrawingBook.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\DrawingBook\DrawingBook\bin\Debug\net5.0\DrawingBook.dll
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\DrawingBook\DrawingBook\bin\Debug\net5.0\DrawingBook.pdb
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\DrawingBook\DrawingBook\obj\Debug\net5.0\DrawingBook.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\DrawingBook\DrawingBook\obj\Debug\net5.0\DrawingBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\DrawingBook\DrawingBook\obj\Debug\net5.0\DrawingBook.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\DrawingBook\DrawingBook\obj\Debug\net5.0\DrawingBook.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\DrawingBook\DrawingBook\obj\Debug\net5.0\DrawingBook.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\DrawingBook\DrawingBook\obj\Debug\net5.0\DrawingBook.dll
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\DrawingBook\DrawingBook\obj\Debug\net5.0\refint\DrawingBook.dll
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\DrawingBook\DrawingBook\obj\Debug\net5.0\DrawingBook.pdb
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\DrawingBook\DrawingBook\obj\Debug\net5.0\DrawingBook.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\DrawingBook\DrawingBook\obj\Debug\net5.0\ref\DrawingBook.dll
