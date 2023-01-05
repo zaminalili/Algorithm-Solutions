@@ -26,8 +26,7 @@ namespace DrawingBook
         public static int pageCount(int n, int p)
         {
 
-            int pagesToTurn = 0;
-            int reversePagesToTurn = 0;
+            int pagesToTurn, reversePagesToTurn = 0;
 
             //if (p%2==0)
             //{
@@ -46,8 +45,8 @@ namespace DrawingBook
             //}
 
 
-            if (p % 2 != 0)
-                p--;
+            //if (p % 2 != 0)
+                //p--;
 
             pagesToTurn = p / 2;
             //reversePagesToTurn = n/2+1 -1-pagesToTurn;
