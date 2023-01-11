@@ -1,0 +1,16 @@
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\CountingValleys\CountingValleys\bin\Debug\net5.0\CountingValleys.exe
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\CountingValleys\CountingValleys\bin\Debug\net5.0\CountingValleys.deps.json
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\CountingValleys\CountingValleys\bin\Debug\net5.0\CountingValleys.runtimeconfig.json
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\CountingValleys\CountingValleys\bin\Debug\net5.0\CountingValleys.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\CountingValleys\CountingValleys\bin\Debug\net5.0\CountingValleys.dll
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\CountingValleys\CountingValleys\bin\Debug\net5.0\CountingValleys.pdb
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\CountingValleys\CountingValleys\obj\Debug\net5.0\CountingValleys.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\CountingValleys\CountingValleys\obj\Debug\net5.0\CountingValleys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\CountingValleys\CountingValleys\obj\Debug\net5.0\CountingValleys.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\CountingValleys\CountingValleys\obj\Debug\net5.0\CountingValleys.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\CountingValleys\CountingValleys\obj\Debug\net5.0\CountingValleys.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\CountingValleys\CountingValleys\obj\Debug\net5.0\CountingValleys.dll
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\CountingValleys\CountingValleys\obj\Debug\net5.0\refint\CountingValleys.dll
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\CountingValleys\CountingValleys\obj\Debug\net5.0\CountingValleys.pdb
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\CountingValleys\CountingValleys\obj\Debug\net5.0\CountingValleys.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\CountingValleys\CountingValleys\obj\Debug\net5.0\ref\CountingValleys.dll
