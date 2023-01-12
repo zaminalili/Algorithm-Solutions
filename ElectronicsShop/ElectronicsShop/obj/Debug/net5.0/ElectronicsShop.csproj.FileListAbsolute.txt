@@ -1,0 +1,16 @@
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\ElectronicsShop\ElectronicsShop\bin\Debug\net5.0\ElectronicsShop.exe
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\ElectronicsShop\ElectronicsShop\bin\Debug\net5.0\ElectronicsShop.deps.json
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\ElectronicsShop\ElectronicsShop\bin\Debug\net5.0\ElectronicsShop.runtimeconfig.json
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\ElectronicsShop\ElectronicsShop\bin\Debug\net5.0\ElectronicsShop.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\ElectronicsShop\ElectronicsShop\bin\Debug\net5.0\ElectronicsShop.dll
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\ElectronicsShop\ElectronicsShop\bin\Debug\net5.0\ElectronicsShop.pdb
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\ElectronicsShop\ElectronicsShop\obj\Debug\net5.0\ElectronicsShop.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\ElectronicsShop\ElectronicsShop\obj\Debug\net5.0\ElectronicsShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\ElectronicsShop\ElectronicsShop\obj\Debug\net5.0\ElectronicsShop.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\ElectronicsShop\ElectronicsShop\obj\Debug\net5.0\ElectronicsShop.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\ElectronicsShop\ElectronicsShop\obj\Debug\net5.0\ElectronicsShop.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\ElectronicsShop\ElectronicsShop\obj\Debug\net5.0\ElectronicsShop.dll
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\ElectronicsShop\ElectronicsShop\obj\Debug\net5.0\refint\ElectronicsShop.dll
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\ElectronicsShop\ElectronicsShop\obj\Debug\net5.0\ElectronicsShop.pdb
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\ElectronicsShop\ElectronicsShop\obj\Debug\net5.0\ElectronicsShop.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\ElectronicsShop\ElectronicsShop\obj\Debug\net5.0\ref\ElectronicsShop.dll
