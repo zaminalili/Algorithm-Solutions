@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\DesignerPDFViewer\DesignerPDFViewer\bin\Debug\net6.0\DesignerPDFViewer.exe
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\DesignerPDFViewer\DesignerPDFViewer\bin\Debug\net6.0\DesignerPDFViewer.deps.json
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\DesignerPDFViewer\DesignerPDFViewer\bin\Debug\net6.0\DesignerPDFViewer.runtimeconfig.json
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\DesignerPDFViewer\DesignerPDFViewer\bin\Debug\net6.0\DesignerPDFViewer.dll
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\DesignerPDFViewer\DesignerPDFViewer\bin\Debug\net6.0\DesignerPDFViewer.pdb
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\DesignerPDFViewer\DesignerPDFViewer\obj\Debug\net6.0\DesignerPDFViewer.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\DesignerPDFViewer\DesignerPDFViewer\obj\Debug\net6.0\DesignerPDFViewer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\DesignerPDFViewer\DesignerPDFViewer\obj\Debug\net6.0\DesignerPDFViewer.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\DesignerPDFViewer\DesignerPDFViewer\obj\Debug\net6.0\DesignerPDFViewer.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\DesignerPDFViewer\DesignerPDFViewer\obj\Debug\net6.0\DesignerPDFViewer.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\DesignerPDFViewer\DesignerPDFViewer\obj\Debug\net6.0\DesignerPDFViewer.dll
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\DesignerPDFViewer\DesignerPDFViewer\obj\Debug\net6.0\refint\DesignerPDFViewer.dll
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\DesignerPDFViewer\DesignerPDFViewer\obj\Debug\net6.0\DesignerPDFViewer.pdb
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\DesignerPDFViewer\DesignerPDFViewer\obj\Debug\net6.0\DesignerPDFViewer.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\DesignerPDFViewer\DesignerPDFViewer\obj\Debug\net6.0\ref\DesignerPDFViewer.dll
