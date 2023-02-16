@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\UtopianTree\UtopianTree\bin\Debug\net6.0\UtopianTree.exe
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\UtopianTree\UtopianTree\bin\Debug\net6.0\UtopianTree.deps.json
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\UtopianTree\UtopianTree\bin\Debug\net6.0\UtopianTree.runtimeconfig.json
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\UtopianTree\UtopianTree\bin\Debug\net6.0\UtopianTree.dll
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\UtopianTree\UtopianTree\bin\Debug\net6.0\UtopianTree.pdb
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\UtopianTree\UtopianTree\obj\Debug\net6.0\UtopianTree.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\UtopianTree\UtopianTree\obj\Debug\net6.0\UtopianTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\UtopianTree\UtopianTree\obj\Debug\net6.0\UtopianTree.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\UtopianTree\UtopianTree\obj\Debug\net6.0\UtopianTree.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\UtopianTree\UtopianTree\obj\Debug\net6.0\UtopianTree.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\UtopianTree\UtopianTree\obj\Debug\net6.0\UtopianTree.dll
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\UtopianTree\UtopianTree\obj\Debug\net6.0\refint\UtopianTree.dll
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\UtopianTree\UtopianTree\obj\Debug\net6.0\UtopianTree.pdb
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\UtopianTree\UtopianTree\obj\Debug\net6.0\UtopianTree.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\UtopianTree\UtopianTree\obj\Debug\net6.0\ref\UtopianTree.dll
