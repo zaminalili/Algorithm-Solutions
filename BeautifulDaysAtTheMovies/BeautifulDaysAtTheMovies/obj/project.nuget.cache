@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "dWVvdshKEMvfthnjgWH6J1K3U25BorWPTjsbH3BMiPrvPgSz7VAfeZVJ/Dcabsp6481p2tQW6arh9riANctdaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Documents\\GitHub\\Algorithm-Solutions\\BeautifulDaysAtTheMovies\\BeautifulDaysAtTheMovies\\BeautifulDaysAtTheMovies.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\BeautifulDaysAtTheMovies\BeautifulDaysAtTheMovies\bin\Debug\net6.0\BeautifulDaysAtTheMovies.exe
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\BeautifulDaysAtTheMovies\BeautifulDaysAtTheMovies\bin\Debug\net6.0\BeautifulDaysAtTheMovies.deps.json
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\BeautifulDaysAtTheMovies\BeautifulDaysAtTheMovies\bin\Debug\net6.0\BeautifulDaysAtTheMovies.runtimeconfig.json
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\BeautifulDaysAtTheMovies\BeautifulDaysAtTheMovies\bin\Debug\net6.0\BeautifulDaysAtTheMovies.dll
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\BeautifulDaysAtTheMovies\BeautifulDaysAtTheMovies\bin\Debug\net6.0\BeautifulDaysAtTheMovies.pdb
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\BeautifulDaysAtTheMovies\BeautifulDaysAtTheMovies\obj\Debug\net6.0\BeautifulDaysAtTheMovies.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\BeautifulDaysAtTheMovies\BeautifulDaysAtTheMovies\obj\Debug\net6.0\BeautifulDaysAtTheMovies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\BeautifulDaysAtTheMovies\BeautifulDaysAtTheMovies\obj\Debug\net6.0\BeautifulDaysAtTheMovies.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\BeautifulDaysAtTheMovies\BeautifulDaysAtTheMovies\obj\Debug\net6.0\BeautifulDaysAtTheMovies.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\BeautifulDaysAtTheMovies\BeautifulDaysAtTheMovies\obj\Debug\net6.0\BeautifulDaysAtTheMovies.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\BeautifulDaysAtTheMovies\BeautifulDaysAtTheMovies\obj\Debug\net6.0\BeautifulDaysAtTheMovies.dll
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\BeautifulDaysAtTheMovies\BeautifulDaysAtTheMovies\obj\Debug\net6.0\refint\BeautifulDaysAtTheMovies.dll
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\BeautifulDaysAtTheMovies\BeautifulDaysAtTheMovies\obj\Debug\net6.0\BeautifulDaysAtTheMovies.pdb
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\BeautifulDaysAtTheMovies\BeautifulDaysAtTheMovies\obj\Debug\net6.0\BeautifulDaysAtTheMovies.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\BeautifulDaysAtTheMovies\BeautifulDaysAtTheMovies\obj\Debug\net6.0\ref\BeautifulDaysAtTheMovies.dll
