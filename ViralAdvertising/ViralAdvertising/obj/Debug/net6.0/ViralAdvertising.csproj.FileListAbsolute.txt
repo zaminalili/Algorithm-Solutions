@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\ViralAdvertising\ViralAdvertising\bin\Debug\net6.0\ViralAdvertising.exe
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\ViralAdvertising\ViralAdvertising\bin\Debug\net6.0\ViralAdvertising.deps.json
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\ViralAdvertising\ViralAdvertising\bin\Debug\net6.0\ViralAdvertising.runtimeconfig.json
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\ViralAdvertising\ViralAdvertising\bin\Debug\net6.0\ViralAdvertising.dll
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\ViralAdvertising\ViralAdvertising\bin\Debug\net6.0\ViralAdvertising.pdb
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\ViralAdvertising\ViralAdvertising\obj\Debug\net6.0\ViralAdvertising.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\ViralAdvertising\ViralAdvertising\obj\Debug\net6.0\ViralAdvertising.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\ViralAdvertising\ViralAdvertising\obj\Debug\net6.0\ViralAdvertising.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\ViralAdvertising\ViralAdvertising\obj\Debug\net6.0\ViralAdvertising.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\ViralAdvertising\ViralAdvertising\obj\Debug\net6.0\ViralAdvertising.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\ViralAdvertising\ViralAdvertising\obj\Debug\net6.0\ViralAdvertising.dll
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\ViralAdvertising\ViralAdvertising\obj\Debug\net6.0\refint\ViralAdvertising.dll
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\ViralAdvertising\ViralAdvertising\obj\Debug\net6.0\ViralAdvertising.pdb
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\ViralAdvertising\ViralAdvertising\obj\Debug\net6.0\ViralAdvertising.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\ViralAdvertising\ViralAdvertising\obj\Debug\net6.0\ref\ViralAdvertising.dll
