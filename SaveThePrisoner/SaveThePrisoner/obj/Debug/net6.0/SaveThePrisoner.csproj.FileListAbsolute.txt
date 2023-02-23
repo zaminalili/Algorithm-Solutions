@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\SaveThePrisoner\SaveThePrisoner\bin\Debug\net6.0\SaveThePrisoner.exe
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\SaveThePrisoner\SaveThePrisoner\bin\Debug\net6.0\SaveThePrisoner.deps.json
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\SaveThePrisoner\SaveThePrisoner\bin\Debug\net6.0\SaveThePrisoner.runtimeconfig.json
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\SaveThePrisoner\SaveThePrisoner\bin\Debug\net6.0\SaveThePrisoner.dll
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\SaveThePrisoner\SaveThePrisoner\bin\Debug\net6.0\SaveThePrisoner.pdb
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\SaveThePrisoner\SaveThePrisoner\obj\Debug\net6.0\SaveThePrisoner.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\SaveThePrisoner\SaveThePrisoner\obj\Debug\net6.0\SaveThePrisoner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\SaveThePrisoner\SaveThePrisoner\obj\Debug\net6.0\SaveThePrisoner.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\SaveThePrisoner\SaveThePrisoner\obj\Debug\net6.0\SaveThePrisoner.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\SaveThePrisoner\SaveThePrisoner\obj\Debug\net6.0\SaveThePrisoner.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\SaveThePrisoner\SaveThePrisoner\obj\Debug\net6.0\SaveThePrisoner.dll
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\SaveThePrisoner\SaveThePrisoner\obj\Debug\net6.0\refint\SaveThePrisoner.dll
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\SaveThePrisoner\SaveThePrisoner\obj\Debug\net6.0\SaveThePrisoner.pdb
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\SaveThePrisoner\SaveThePrisoner\obj\Debug\net6.0\SaveThePrisoner.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\SaveThePrisoner\SaveThePrisoner\obj\Debug\net6.0\ref\SaveThePrisoner.dll
