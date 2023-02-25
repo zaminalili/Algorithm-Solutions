@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\CircularArrayRotation\CircularArrayRotation\bin\Debug\net6.0\CircularArrayRotation.exe
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\CircularArrayRotation\CircularArrayRotation\bin\Debug\net6.0\CircularArrayRotation.deps.json
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\CircularArrayRotation\CircularArrayRotation\bin\Debug\net6.0\CircularArrayRotation.runtimeconfig.json
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\CircularArrayRotation\CircularArrayRotation\bin\Debug\net6.0\CircularArrayRotation.dll
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\CircularArrayRotation\CircularArrayRotation\bin\Debug\net6.0\CircularArrayRotation.pdb
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\CircularArrayRotation\CircularArrayRotation\obj\Debug\net6.0\CircularArrayRotation.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\CircularArrayRotation\CircularArrayRotation\obj\Debug\net6.0\CircularArrayRotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\CircularArrayRotation\CircularArrayRotation\obj\Debug\net6.0\CircularArrayRotation.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\CircularArrayRotation\CircularArrayRotation\obj\Debug\net6.0\CircularArrayRotation.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\CircularArrayRotation\CircularArrayRotation\obj\Debug\net6.0\CircularArrayRotation.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\CircularArrayRotation\CircularArrayRotation\obj\Debug\net6.0\CircularArrayRotation.dll
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\CircularArrayRotation\CircularArrayRotation\obj\Debug\net6.0\refint\CircularArrayRotation.dll
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\CircularArrayRotation\CircularArrayRotation\obj\Debug\net6.0\CircularArrayRotation.pdb
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\CircularArrayRotation\CircularArrayRotation\obj\Debug\net6.0\CircularArrayRotation.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\CircularArrayRotation\CircularArrayRotation\obj\Debug\net6.0\ref\CircularArrayRotation.dll
