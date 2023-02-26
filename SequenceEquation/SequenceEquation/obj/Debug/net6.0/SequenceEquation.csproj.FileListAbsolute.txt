@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\SequenceEquation\SequenceEquation\bin\Debug\net6.0\SequenceEquation.exe
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\SequenceEquation\SequenceEquation\bin\Debug\net6.0\SequenceEquation.deps.json
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\SequenceEquation\SequenceEquation\bin\Debug\net6.0\SequenceEquation.runtimeconfig.json
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\SequenceEquation\SequenceEquation\bin\Debug\net6.0\SequenceEquation.dll
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\SequenceEquation\SequenceEquation\bin\Debug\net6.0\SequenceEquation.pdb
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\SequenceEquation\SequenceEquation\obj\Debug\net6.0\SequenceEquation.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\SequenceEquation\SequenceEquation\obj\Debug\net6.0\SequenceEquation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\SequenceEquation\SequenceEquation\obj\Debug\net6.0\SequenceEquation.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\SequenceEquation\SequenceEquation\obj\Debug\net6.0\SequenceEquation.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\SequenceEquation\SequenceEquation\obj\Debug\net6.0\SequenceEquation.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\SequenceEquation\SequenceEquation\obj\Debug\net6.0\SequenceEquation.dll
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\SequenceEquation\SequenceEquation\obj\Debug\net6.0\refint\SequenceEquation.dll
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\SequenceEquation\SequenceEquation\obj\Debug\net6.0\SequenceEquation.pdb
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\SequenceEquation\SequenceEquation\obj\Debug\net6.0\SequenceEquation.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\SequenceEquation\SequenceEquation\obj\Debug\net6.0\ref\SequenceEquation.dll
