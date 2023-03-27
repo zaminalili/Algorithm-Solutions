@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\1WeekPreparationKit\Day 1\MiniMaxSum\MiniMaxSum\bin\Debug\net6.0\MiniMaxSum.exe
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\1WeekPreparationKit\Day 1\MiniMaxSum\MiniMaxSum\bin\Debug\net6.0\MiniMaxSum.deps.json
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\1WeekPreparationKit\Day 1\MiniMaxSum\MiniMaxSum\bin\Debug\net6.0\MiniMaxSum.runtimeconfig.json
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\1WeekPreparationKit\Day 1\MiniMaxSum\MiniMaxSum\bin\Debug\net6.0\MiniMaxSum.dll
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\1WeekPreparationKit\Day 1\MiniMaxSum\MiniMaxSum\bin\Debug\net6.0\MiniMaxSum.pdb
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\1WeekPreparationKit\Day 1\MiniMaxSum\MiniMaxSum\obj\Debug\net6.0\MiniMaxSum.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\1WeekPreparationKit\Day 1\MiniMaxSum\MiniMaxSum\obj\Debug\net6.0\MiniMaxSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\1WeekPreparationKit\Day 1\MiniMaxSum\MiniMaxSum\obj\Debug\net6.0\MiniMaxSum.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\1WeekPreparationKit\Day 1\MiniMaxSum\MiniMaxSum\obj\Debug\net6.0\MiniMaxSum.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\1WeekPreparationKit\Day 1\MiniMaxSum\MiniMaxSum\obj\Debug\net6.0\MiniMaxSum.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\1WeekPreparationKit\Day 1\MiniMaxSum\MiniMaxSum\obj\Debug\net6.0\MiniMaxSum.dll
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\1WeekPreparationKit\Day 1\MiniMaxSum\MiniMaxSum\obj\Debug\net6.0\refint\MiniMaxSum.dll
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\1WeekPreparationKit\Day 1\MiniMaxSum\MiniMaxSum\obj\Debug\net6.0\MiniMaxSum.pdb
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\1WeekPreparationKit\Day 1\MiniMaxSum\MiniMaxSum\obj\Debug\net6.0\MiniMaxSum.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\1WeekPreparationKit\Day 1\MiniMaxSum\MiniMaxSum\obj\Debug\net6.0\ref\MiniMaxSum.dll
