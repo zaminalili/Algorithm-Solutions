@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\1WeekPreparationKit\Day 2\DiagonalDifference\DiagonalDifference\bin\Debug\net6.0\DiagonalDifference.exe
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\1WeekPreparationKit\Day 2\DiagonalDifference\DiagonalDifference\bin\Debug\net6.0\DiagonalDifference.deps.json
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\1WeekPreparationKit\Day 2\DiagonalDifference\DiagonalDifference\bin\Debug\net6.0\DiagonalDifference.runtimeconfig.json
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\1WeekPreparationKit\Day 2\DiagonalDifference\DiagonalDifference\bin\Debug\net6.0\DiagonalDifference.dll
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\1WeekPreparationKit\Day 2\DiagonalDifference\DiagonalDifference\bin\Debug\net6.0\DiagonalDifference.pdb
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\1WeekPreparationKit\Day 2\DiagonalDifference\DiagonalDifference\obj\Debug\net6.0\DiagonalDifference.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\1WeekPreparationKit\Day 2\DiagonalDifference\DiagonalDifference\obj\Debug\net6.0\DiagonalDifference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\1WeekPreparationKit\Day 2\DiagonalDifference\DiagonalDifference\obj\Debug\net6.0\DiagonalDifference.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\1WeekPreparationKit\Day 2\DiagonalDifference\DiagonalDifference\obj\Debug\net6.0\DiagonalDifference.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\1WeekPreparationKit\Day 2\DiagonalDifference\DiagonalDifference\obj\Debug\net6.0\DiagonalDifference.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\1WeekPreparationKit\Day 2\DiagonalDifference\DiagonalDifference\obj\Debug\net6.0\DiagonalDifference.dll
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\1WeekPreparationKit\Day 2\DiagonalDifference\DiagonalDifference\obj\Debug\net6.0\refint\DiagonalDifference.dll
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\1WeekPreparationKit\Day 2\DiagonalDifference\DiagonalDifference\obj\Debug\net6.0\DiagonalDifference.pdb
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\1WeekPreparationKit\Day 2\DiagonalDifference\DiagonalDifference\obj\Debug\net6.0\DiagonalDifference.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\Algorithm-Solutions\1WeekPreparationKit\Day 2\DiagonalDifference\DiagonalDifference\obj\Debug\net6.0\ref\DiagonalDifference.dll
